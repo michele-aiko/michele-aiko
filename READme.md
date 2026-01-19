@@ -26,13 +26,8 @@ I’m a Computer Science student who genuinely enjoys learning and teaching. Mos
 
 ## Let’s chat!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/micheleaiko/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
-  </a>
-  <a href="mailto:micheleaikomukaihata@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/micheleaiko/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 Feel free to reach out for collaboration, questions, or just to chat!
