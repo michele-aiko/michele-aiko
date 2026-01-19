@@ -15,7 +15,6 @@ I’m a Computer Science student who genuinely enjoys learning and teaching. Mos
 ## What you'll find here
 
 * Projects built while studying and practicing
-* Code from courses, challenges, and certifications
 * Projects developed for my Junior Company
 
 ## Currently focused on
@@ -31,3 +30,5 @@ I’m a Computer Science student who genuinely enjoys learning and teaching. Mos
 </a>
 
 Feel free to reach out for collaboration, questions, or just to chat!
+
+![snake gif](https://github.com/michele-aiko/michele-aiko/blob/output/github-snake-dark.svg)
